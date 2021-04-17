@@ -10,5 +10,17 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "description": "> [Задачник по JavaScript от Web Hero School](https://lk.webheroschool.ru/teach/control/stream/view/id/169442572/)",
+  "main": "palindrome.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/palindrome-madmike80.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/palindrome-madmike80/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/palindrome-madmike80#readme"
 }
